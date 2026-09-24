@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">  Hey, I'm Prince Tiwari </h1>
+<h1 align="center">👋 Hey, I'm Prince Tiwari</h1>
 
 <h3 align="center">
-  Full-Stack Developer • MERN • AI/ML • Backend • Real-Time Systems
+Full-Stack Developer • MERN • AI/ML • Backend • Real-Time Systems
 </h3>
 
 <p align="center">
@@ -47,23 +47,15 @@ const prince = {
         "Data Structures & Algorithms"
     ],
 
-    philosophy:
-        "Build → Break → Debug → Learn → Build Better"
+    philosophy: "Build → Break → Debug → Learn → Build Better 🚀"
 };
 ```
 
----
-
-## 🚀 What I Build
-
-* 🌐 Full-stack web applications
-* ⚡ REST APIs & backend systems
-* 🔐 Authentication & authorization systems
-* 🔄 Real-time applications
-* 🤖 AI-powered applications
-* 📊 Data-driven applications
-* 🧠 DSA & competitive programming projects
-* 🌾 Technology solutions for real-world problems
+* 🌐 Building full-stack & AI-powered applications
+* ⚙️ Interested in scalable APIs, databases & real-time systems
+* 🧠 Improving DSA, backend architecture & system design
+* 🚀 Turning ideas into working products
+* 🤝 Open to interesting software collaborations
 
 ---
 
@@ -107,110 +99,42 @@ const prince = {
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-## 🤖 Tender Sahayak
-
-AI-powered tender eligibility analysis system.
-
-**Tech:** React • FastAPI • PostgreSQL • AI • Document Processing
-
-> Designed to help analyze procurement/tender documents and evaluate eligibility requirements.
+| Project                                                                                      | Description                                 | Tech                                |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------- |
+| 🤖 **[Tender Sahayak](https://github.com/PRINCE-TIWARI07/Tender-Sahayak)**                   | AI-powered tender eligibility analysis      | React • FastAPI • PostgreSQL • AI   |
+| 🌾 **[FarmSetu](https://github.com/PRINCE-TIWARI07/FarmSetu)**                               | Digital tools and workflows for agriculture | PWA • JavaScript • Agritech         |     |
+| 🔳 **[QRTransfer](https://github.com/PRINCE-TIWARI07/QrTransfer)**                           | QR-based file transfer application          | JavaScript • Web APIs               |
 
 ---
 
-## 🌾 FarmSetu
+# 📌 More Projects
 
-Agriculture-focused technology platform designed around practical farming workflows.
-
-**Focus:**
-
-* Crop management
-* Agricultural information
-* Farmer-oriented workflows
-* Technology-assisted decision making
-
----
-
-## 📹 Vdo Call Web
-
-Real-time video communication application.
-
-**Tech:** React • Node.js • Express • Socket.io • WebRTC
-
-**Features:**
-
-* Video calling
-* Room-based communication
-* Real-time signaling
-* WebRTC communication
+* 🎨 [Portfolio](https://github.com/PRINCE-TIWARI07/Portfolio-Prince_Tiwari)
+* 🩸 [Anemia Detection](https://github.com/PRINCE-TIWARI07/Anemia-Detection-)
+* 🎟️ [E-Ticket Booking](https://github.com/PRINCE-TIWARI07/E-ticket-booking-)
+* 📝 [Todo App](https://github.com/PRINCE-TIWARI07/Todo-app)
+* 🎮 [Vibe Coding Platform](https://github.com/PRINCE-TIWARI07/vibe-coding-platform)
+* 🖥️ [LandingPage1](https://github.com/PRINCE-TIWARI07/LandingPage1)
+* 🔤 [Interactive ASCII Footer](https://github.com/PRINCE-TIWARI07/-This-Interactive-ASCII-Footer-)
 
 ---
 
-## 📸 Instagram MERN
-
-Full-stack social media application inspired by core social-platform functionality.
-
-**Tech:** MongoDB • Express • React • Node.js
-
-**Features:**
-
-* Authentication
-* User profiles
-* Posts
-* Social interactions
-* REST APIs
-
----
-
-## 📄 Resume Bullet Generator
-
-AI-assisted SaaS application for generating stronger resume bullet points.
-
-**Tech:** Next.js • TypeScript • Tailwind CSS • AI
-
----
-
-## 📱 QRTransfer
-
-A file-transfer application focused on transferring files using QR-based interaction.
-
-**Tech:** JavaScript • Web APIs • Frontend/Backend Integration
-
----
-
-# 📌 Other Projects
-
-| Project                     | Description                        |
-| --------------------------- | ---------------------------------- |
-| 🎨 Portfolio                | Personal developer portfolio       |
-| 📝 Todo App                 | Task management application        |
-| 🎟️ E-Ticket Booking        | Ticket booking application         |
-| 🩸 Anemia Detection         | ML-based detection project         |
-| 🎮 Vibe Coding Platform     | Coding-focused platform            |
-| 🖥️ LandingPage1            | Modern landing page                |
-| 🔤 Interactive ASCII Footer | Interactive developer UI component |
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=PRINCE-TIWARI07&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
     height="180"
+    src="https://github-readme-stats.vercel.app/api?username=PRINCE-TIWARI07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE-TIWARI07&layout=compact&hide_border=true&theme=tokyonight"
  height="180"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE-TIWARI07&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
   <img
@@ -229,108 +153,44 @@ A file-transfer application focused on transferring files using QR-based interac
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/PRINCE-TIWARI07/PRINCE-TIWARI07/output/github-contribution-grid-snake-dark.svg"
     />
-
-```
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/PRINCE-TIWARI07/PRINCE-TIWARI07/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/PRINCE-TIWARI07/PRINCE-TIWARI07/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
-```
-
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/PRINCE-TIWARI07/PRINCE-TIWARI07/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/PRINCE-TIWARI07/PRINCE-TIWARI07/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
   </picture>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 🎯 Currently Building & Learning
 
-<p align="center">
+```text
+Full-Stack Development  █████████░  90%
+Backend Engineering     ████████░░  80%
+DSA & CP                ████████░░  80%
+AI Engineering          ██████░░░░  60%
+System Design           █████░░░░░  50%
+```
 
-<img
- src="https://github-readme-stats.vercel.app/api?username=PRINCE-TIWARI07&show_icons=true&hide_border=true&theme=tokyonight"
- alt="GitHub Activity"
-/>
+### Focus
 
-</p>
-
-> Your native GitHub contribution calendar is available directly on your profile. The snake above provides an additional animated visualization.
+`DSA` • `Node.js` • `PostgreSQL` • `Prisma` • `Redis` • `API Security` • `System Design` • `AI/ML` • `Cloud Deployment`
 
 ---
 
 # 🧠 Problem Solving
 
-Currently improving my problem-solving skills through:
+I enjoy solving problems involving:
 
-* Data Structures & Algorithms
-* Competitive Programming
-* Codeforces
-* LeetCode
-* Algorithmic thinking
-* Complexity analysis
+`Arrays` • `Linked Lists` • `Trees` • `Graphs` • `Sorting` • `Searching` • `Recursion` • `Greedy` • `Dynamic Programming`
 
 ```text
-Problem
-   ↓
-Understand
-   ↓
-Brute Force
-   ↓
-Optimize
-   ↓
-Code
-   ↓
-Test
-   ↓
-Analyze Complexity
-   ↓
-Improve
-```
-
----
-
-# 🎯 Current Goals
-
-```text
-[████████████████░░░░] Full-Stack Development
-[██████████████░░░░░░] Backend Engineering
-[████████████░░░░░░░░] System Design
-[██████████░░░░░░░░░░] AI Engineering
-[████████░░░░░░░░░░░░] Competitive Programming
-```
-
-### Currently focused on
-
-* 🚀 Building production-ready applications
-* 🧠 Strengthening DSA
-* ⚙️ Learning scalable backend architecture
-* 🤖 Exploring AI-powered products
-* ☁️ Improving deployment & DevOps skills
-* 🔐 Learning better authentication/security practices
-
----
-
-# 💡 Developer Philosophy
-
-> **Don't just learn technologies. Build with them.**
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Build Again
+Understand → Brute Force → Optimize → Code → Test → Improve
 ```
 
 ---
@@ -351,28 +211,17 @@ Build Again
 
 ---
 
-# ⚡ A Little About Me
+# 💡 Developer Philosophy
 
-```text
-💻 Code
-☕ Think
-🐛 Debug
-🧠 Learn
-🚀 Build
-🔁 Repeat
-```
+> **Build it. Break it. Understand it. Improve it.**
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
-<p align="center">
-  <i>Keep building. Keep learning. Keep shipping.</i>
+  <b>🚀 Keep Building. Keep Learning. Keep Shipping.</b>
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=100&section=footer"
     width="100%"
   />
 </p>
