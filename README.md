@@ -9,10 +9,7 @@ Full-Stack Developer • MERN • AI/ML • Backend • Real-Time Systems
 <p align="center">
   <a href="https://github.com/PRINCE-TIWARI07">
     <img src="https://komarev.com/ghpvc/?username=PRINCE-TIWARI07&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/PRINCE-TIWARI07?tab=followers">
-    <img src="https://img.shields.io/github/followers/PRINCE-TIWARI07?label=Followers&style=flat" />
-  </a>
+ 
 </p>
 
 <p align="center">
