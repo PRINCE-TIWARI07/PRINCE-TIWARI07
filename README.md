@@ -178,7 +178,7 @@ Understand → Brute Force → Optimize → Code → Test → Improve
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://x.com/YOUR_X_USERNAME">
+<a href="https://x.com/PrinceTiwa58080">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
