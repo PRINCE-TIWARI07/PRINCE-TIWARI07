@@ -66,16 +66,16 @@ const prince = {
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" />
 </p>
 
-### Frontend
+## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,typescript" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,typeScript " />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript" />
 </p>
 
 ### Database
