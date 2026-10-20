@@ -27,7 +27,8 @@ Full-Stack Developer • MERN • AI/ML • Backend • Real-Time Systems
 const prince = {
     name: "Prince Tiwari",
     role: "Full-Stack Developer",
-    education: "B.Tech CSE",
+    education: "B.Tech IT",
+    CGPA = 8
 
     focus: [
         "Web Development",
@@ -35,11 +36,12 @@ const prince = {
         "AI/ML",
         "Real-Time Applications",
         "System Design"
+        
     ],
 
     currentlyLearning: [
         "Advanced Backend Development",
-        "System Design",
+        "System Design (LLD & HLD stuffs)",
         "AI Engineering",
         "Data Structures & Algorithms"
     ],
@@ -61,7 +63,7 @@ const prince = {
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" />
 </p>
 
 ### Frontend
@@ -73,20 +75,16 @@ const prince = {
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,prisma,NeonB" />
 </p>
 
-### AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
 
 ### Tools & Platforms
 
