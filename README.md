@@ -69,13 +69,13 @@ const prince = {
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typeScript " />
 </p>
 
 ### Database
@@ -89,7 +89,7 @@ const prince = {
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,docker,cursor," />
 </p>
 
 ---
@@ -107,12 +107,9 @@ const prince = {
 # 📌 More Projects
 
 * 🎨 [Portfolio](https://github.com/PRINCE-TIWARI07/Portfolio-Prince_Tiwari)
-* 🩸 [Anemia Detection](https://github.com/PRINCE-TIWARI07/Anemia-Detection-)
+* 🩸 [Anemia Detection(still working )](https://github.com/PRINCE-TIWARI07/Anemia-Detection-)
 * 🎟️ [E-Ticket Booking](https://github.com/PRINCE-TIWARI07/E-ticket-booking-)
-* 📝 [Todo App](https://github.com/PRINCE-TIWARI07/Todo-app)
-* 🎮 [Vibe Coding Platform](https://github.com/PRINCE-TIWARI07/vibe-coding-platform)
-* 🖥️ [LandingPage1](https://github.com/PRINCE-TIWARI07/LandingPage1)
-* 🔤 [Interactive ASCII Footer](https://github.com/PRINCE-TIWARI07/-This-Interactive-ASCII-Footer-)
+* 🖥️ [LandingPageforClient](https://github.com/PRINCE-TIWARI07/LandingPage1)
 
 ---
 
@@ -153,7 +150,7 @@ System Design           █████░░░░░  50%
 
 ### Focus
 
-`DSA` • `Node.js` • `PostgreSQL` • `Prisma` • `Redis` • `API Security` • `System Design` • `AI/ML` • `Cloud Deployment`
+`DSA` • `Node.js` • `bun.js` • `PostgreSQL` • `Prisma` • `Redis` • `API Security` • `System Design` • `AI/ML` • `Cloud Deployment`
 
 ---
 
@@ -187,10 +184,10 @@ Understand → Brute Force → Optimize → Code → Test → Improve
 
 # 💡 Developer Philosophy
 
-> **Build it. Break it. Understand it. Improve it.**
+> **Either increase your sacrifice or reduce desire ---> It's Simple.**
 
 <p align="center">
-  <b>🚀 Keep Building. Keep Learning. Keep Shipping.</b>
+  <b>🚀 Coffee ☕️ --> Learn --> Coffee ☕️ --> build.</b>
 </p>
 
 <p align="center">
