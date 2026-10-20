@@ -178,8 +178,11 @@ Understand → Brute Force → Optimize → Code → Test → Improve
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
+<a href="https://x.com/YOUR_X_USERNAME">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
+</p>
 ---
 
 # 💡 Developer Philosophy
