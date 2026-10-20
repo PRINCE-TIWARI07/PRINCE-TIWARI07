@@ -69,7 +69,7 @@ const prince = {
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind" />
 </p>
 
 ### Backend
