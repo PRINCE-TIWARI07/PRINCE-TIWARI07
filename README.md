@@ -199,3 +199,36 @@ Understand → Brute Force → Optimize → Code → Test → Improve
     width="100%"
   />
 </p>
+---
+
+## ⚙️ My Engineering Workflow
+
+```mermaid
+flowchart TD
+    A(["💡 IDEA"]) --> B["🏗️ DESIGN & ARCHITECTURE"]
+    B --> C["💻 BUILD"]
+    C --> D["🧪 TEST"]
+    D --> E{"Working correctly?"}
+    E -- No --> F["🐛 DEBUG & OPTIMIZE"]
+    F --> C
+    E -- Yes --> G["🚀 DEPLOY"]
+    G --> H["📈 MONITOR & IMPROVE"]
+    H --> B
+
+    classDef idea fill:#172554,stroke:#00F7FF,color:#FFFFFF,stroke-width:2px
+    classDef process fill:#111827,stroke:#7F00FF,color:#FFFFFF
+    classDef decision fill:#78350F,stroke:#FBBF24,color:#FFFFFF
+    classDef success fill:#064E3B,stroke:#00F7FF,color:#FFFFFF
+
+    class A idea
+    class B,C,D,F,H process
+    class E decision
+    class G success
+```
+
+<p align="center">
+  <b>BUILD → BREAK → DEBUG → LEARN → BUILD BETTER 🚀</b>
+</p>
+
+---
+
