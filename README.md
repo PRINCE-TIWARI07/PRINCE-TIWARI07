@@ -76,6 +76,7 @@ const prince = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,vscode,postman,docker,vercel,netlify" alt="AI and developer tools" />
 </p>
+
 ## `03 // FEATURED PROJECTS`
 
 <table>
@@ -95,13 +96,12 @@ const prince = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-       <h3>🔗 LLM LangGraph</h3>
+      <h3>🔗 LLM LangGraph</h3>
       <p>LLM application exploring graph-based workflows for orchestrating AI tasks and building structured language-model pipelines.</p>
       <p><code>Python</code> <code>LangChain</code> <code>LangGraph</code> <code>LLMs</code></p>
       <a href="https://github.com/PRINCE-TIWARI07?tab=repositories">↗ Find Repository</a>
     </td>
     <td width="50%" valign="top">
-     
       <h3>🔳 QRTransfer</h3>
       <p>QR-based file transfer application focused on convenient file sharing through browser APIs.</p>
       <p><code>JavaScript</code> <code>Web APIs</code></p>
@@ -116,7 +116,6 @@ const prince = {
 - 🎟️ [E-Ticket Booking](https://github.com/PRINCE-TIWARI07/E-ticket-booking-)
 - 🖥️ [Client Landing Page](https://github.com/PRINCE-TIWARI07/LandingPage1)
 - 📂 [Explore All Repositories](https://github.com/PRINCE-TIWARI07?tab=repositories)
-
 
 ## `04 // ENGINEERING WORKFLOW`
 
@@ -135,6 +134,7 @@ flowchart LR
     classDef cyan fill:#071a2b,stroke:#00f7ff,color:#ffffff,stroke-width:2px;
     classDef purple fill:#17102d,stroke:#a855f7,color:#ffffff,stroke-width:2px;
     classDef orange fill:#2b1608,stroke:#fb923c,color:#ffffff,stroke-width:2px;
+
     class A,C,G cyan;
     class B,D,F,H purple;
     class E orange;
