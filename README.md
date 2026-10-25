@@ -82,29 +82,29 @@ const prince = {
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 LLM RAG Assistant</h3>
-      <p>PDF-powered AI assistant that retrieves relevant document context through semantic search and generates grounded answers.</p>
+      <p>AI assistant that retrieves relevant information from PDF documents using semantic search and generates context-aware answers.</p>
       <p><code>Node.js</code> <code>Express</code> <code>LangChain</code> <code>Gemini</code> <code>Qdrant</code> <code>Groq</code></p>
       <a href="https://github.com/PRINCE-TIWARI07/rag-document-assistant">↗ View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Tender Sahayak</h3>
-      <p>AI-powered tender analysis system designed to help users understand tender documents and eligibility requirements.</p>
+      <p>AI-powered tender analysis application designed to help users understand tender documents and eligibility requirements.</p>
       <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>AI</code></p>
       <a href="https://github.com/PRINCE-TIWARI07/Tender-Sahayak">↗ View Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Paytm-Style Backend</h3>
-      <p>Backend application implementing user authentication, account management, and transactional money transfers.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code> <code>Mongoose</code></p>
-      <a href="https://github.com/PRINCE-TIWARI07?tab=repositories">↗ Find Repository</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌾 FarmSetu</h3>
       <p>Agritech-focused application exploring digital tools and workflows for agricultural use cases.</p>
       <p><code>JavaScript</code> <code>PWA</code> <code>Agritech</code></p>
       <a href="https://github.com/PRINCE-TIWARI07/FarmSetu">↗ View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔳 QRTransfer</h3>
+      <p>QR-based file transfer application focused on convenient file sharing through browser APIs.</p>
+      <p><code>JavaScript</code> <code>Web APIs</code></p>
+      <a href="https://github.com/PRINCE-TIWARI07/QrTransfer">↗ View Repository</a>
     </td>
   </tr>
 </table>
@@ -112,9 +112,11 @@ const prince = {
 ### More Repositories
 
 - 🎨 [Portfolio](https://github.com/PRINCE-TIWARI07/Portfolio-Prince_Tiwari)
-- 🔳 [QRTransfer](https://github.com/PRINCE-TIWARI07/QrTransfer)
 - 🎟️ [E-Ticket Booking](https://github.com/PRINCE-TIWARI07/E-ticket-booking-)
-- 📂 [All Repositories](https://github.com/PRINCE-TIWARI07?tab=repositories)
+- 🖥️ [Client Landing Page](https://github.com/PRINCE-TIWARI07/LandingPage1)
+- 📂 [Explore All Repositories](https://github.com/PRINCE-TIWARI07?tab=repositories)
+
+
 ## `04 // ENGINEERING WORKFLOW`
 
 ```mermaid
