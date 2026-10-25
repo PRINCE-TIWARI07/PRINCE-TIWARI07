@@ -95,12 +95,13 @@ const prince = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌾 FarmSetu</h3>
-      <p>Agritech-focused application exploring digital tools and workflows for agricultural use cases.</p>
-      <p><code>JavaScript</code> <code>PWA</code> <code>Agritech</code></p>
-      <a href="https://github.com/PRINCE-TIWARI07/FarmSetu">↗ View Repository</a>
+       <h3>🔗 LLM LangGraph</h3>
+      <p>LLM application exploring graph-based workflows for orchestrating AI tasks and building structured language-model pipelines.</p>
+      <p><code>Python</code> <code>LangChain</code> <code>LangGraph</code> <code>LLMs</code></p>
+      <a href="https://github.com/PRINCE-TIWARI07?tab=repositories">↗ Find Repository</a>
     </td>
     <td width="50%" valign="top">
+     
       <h3>🔳 QRTransfer</h3>
       <p>QR-based file transfer application focused on convenient file sharing through browser APIs.</p>
       <p><code>JavaScript</code> <code>Web APIs</code></p>
